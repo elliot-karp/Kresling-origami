@@ -16,8 +16,8 @@ This project generates a **Kresling origami pattern** that can be printed and fo
 ## Installation, Setup, and Running
 1. Clone this repository:
    ```sh
-- git clone https://github.com/elliot-karp/kresling-origami.git
-- cd kresling-origami
+git clone https://github.com/elliot-karp/kresling-origami.git
+cd kresling-origami
 2. Install dependencies:
 - pip install matplotlib numpy
 3. Run with default parameters, or modify the values in the main section of kresling.py
